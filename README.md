@@ -1,2 +1,2 @@
 # mae-microscopy-embeddings
-Exploring image embeddings from MAEs for semantic search and robustness analysis in microscopy.
+Exploring MAE embeddings for microscopy and semantic retrieval.
