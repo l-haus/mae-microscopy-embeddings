@@ -1,0 +1,7 @@
+ipykernel
+matplotlib
+notebook
+scikit-learn
+torch
+torchvision
+transformers
